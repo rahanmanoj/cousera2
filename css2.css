@@ -1,0 +1,35 @@
+#l {
+    font-size: 40px;
+}
+
+#abc {
+    background-color: cornsilk;
+    padding: 10px;
+    font-size: 20px;
+    height: 1000px;
+}
+
+#po {
+    border-radius: 0px;
+}
+
+.container-fluid .navbar-header a {
+    color: gold;
+}
+
+.asd {
+    padding: 20px;
+}
+
+#p {
+    font-size: 30px;
+}
+
+#lk li a {
+    color: gold;
+    display: block;
+}
+
+#lk li a:hover {
+    background-color: black;
+}
